@@ -78,7 +78,7 @@ Retail businesses often struggle to identify key revenue drivers, assess discoun
 ## 9. Dashboard
 Below is the interactive Power BI Customer Behavior Dashboard developed for this analysis:
 
-![Customer Behavior Dashboard](5-Dashboard/Dashboard Image.png)
+![Customer Behavior Dashboard][(5-Dashboard/Dashboard Image.png)](https://github.com/Sarfraj-Ahmad-ux/Project1-Customer-Behaviour-Purchase-Pattern-Analysis/blob/eac9966ad7f66ce2e094e3028e8086d95184e5a0/5-Dashboard/Dashboard%20Image.png)
 
 ---
 
